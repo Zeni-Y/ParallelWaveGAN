@@ -26,7 +26,7 @@ requirements = {
     "install": [
         "torch>=1.8",
         "setuptools>=38.5.1",
-        "librosa>=0.8.0",
+        "librosa>=0.10.1",
         "soundfile>=0.10.2",
         "tensorboardX>=1.8",
         "matplotlib>=3.1.0",
@@ -90,6 +90,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
         "Intended Audience :: Science/Research",
         "Operating System :: POSIX :: Linux",
         "License :: OSI Approved :: MIT License",
